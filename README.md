@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a third-year student specializing in software frontend development. I have a deep passion for creating captivating user experiences and excel in crafting dynamic and interactive applications using HTML, CSS, JavaScript, and React.
 
-![Screen Recording - Jun 30, 2023](https://github.com/maggywairigu/maggywairigu/assets/68754799/bb79f44f-4150-48be-bdd3-4372fcc2e3d4)
+![kl](https://github.com/maggywairigu/maggywairigu/assets/68754799/e86bf27c-540e-4763-acc4-d95c3526f9b7)
+
 
 ## 🚀 My Journey
 
@@ -35,12 +36,6 @@ You can find a comprehensive showcase of my projects on my portfolio website. Vi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maggywairigu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maggywairigu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maggywairigu&icon=0&color=0)](https://visitcount.itsvg.in)
