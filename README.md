@@ -24,6 +24,7 @@ Recently, I embarked on an exciting journey into backend development with Python
 ![](https://github-readme-stats.vercel.app/api?username=maggywairigu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maggywairigu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maggywairigu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Maggy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maggywairigu&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🌟 Projects
