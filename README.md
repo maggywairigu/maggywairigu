@@ -1,6 +1,6 @@
 # Hi, I'm Margaret Maina 👋
 
-Welcome to my GitHub profile! I'm a fourth-year student specializing in software frontend development. I have a deep passion for creating captivating user experiences and excel in crafting dynamic and interactive applications using HTML, CSS, JavaScript, and React.
+Welcome to my GitHub profile! I'm a fourth-year student specializing in software frontend development. I have a deep passion for creating captivating user experiences and excel in crafting dynamic and interactive applications using HTML, CSS, JavaScript, React, Tailwind, NextJS and Typescript.
 
 ![kl](https://github.com/maggywairigu/maggywairigu/assets/68754799/e86bf27c-540e-4763-acc4-d95c3526f9b7)
 
