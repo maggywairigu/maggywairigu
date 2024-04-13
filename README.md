@@ -1,6 +1,6 @@
 # Hi, I'm Margaret Maina 👋
 
-Welcome to my GitHub profile! I'm a software developer. I have a deep passion for creating captivating user experiences and excel in crafting dynamic and interactive applications using HTML, CSS, JavaScript, React, Tailwind, NextJS and Typescript.
+Welcome to my GitHub profile! I'm a software developer.
 
 ![kl](https://github.com/maggywairigu/maggywairigu/assets/68754799/e86bf27c-540e-4763-acc4-d95c3526f9b7)
 
@@ -13,8 +13,8 @@ Recently, I embarked on an exciting journey into backend development with Python
 
 ## 💻 Technical Skills
 
-- Frontend Development: HTML, CSS, JavaScript, React
-- Backend Development: Python
+- Frontend Development: HTML, CSS, JavaScript, React, NextJS, Express JS, Node JS
+- Backend Development: Python, MySQL, Oracle
 - Version Control: Git, GitHub
 
 # 💻 Tech Stack:
