@@ -4,13 +4,6 @@ Welcome to my GitHub profile! I'm a software developer.
 
 ![kl](https://github.com/maggywairigu/maggywairigu/assets/68754799/e86bf27c-540e-4763-acc4-d95c3526f9b7)
 
-
-## 🚀 My Journey
-
-Throughout my academic career, I have dedicated myself to honing my skills and expanding my expertise. I've earned certifications in HTML, CSS, JavaScript, and React from freeCodeCamp, which highlight my commitment to continuous learning and improvement.
-
-Recently, I embarked on an exciting journey into backend development with Python as part of the esteemed ALX Software Development program. By combining my frontend prowess with backend knowledge, I'm poised to create comprehensive and robust solutions that deliver seamless user experiences.
-
 ## 💻 Technical Skills
 
 - Frontend Development: HTML, CSS, JavaScript, React, NextJS, Express JS, Node JS
