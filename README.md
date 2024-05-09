@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a software developer.
 
 ## 💻 Technical Skills
 
-- Frontend Development: HTML, CSS, JavaScript, React, NextJS, Express JS, Node JS
-- Backend Development: Python, MySQL, Oracle
+- Frontend Development: HTML, CSS, JavaScript, ReactJS, NextJS, Express JS
+- Backend Development: Python, Flask, MySQL, Oracle, Node JS
 - Version Control: Git, GitHub
 
 # 💻 Tech Stack:
